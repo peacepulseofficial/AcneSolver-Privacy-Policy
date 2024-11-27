@@ -1,4 +1,4 @@
-# AcneSolver-Privacy-Policy
+# SkinSolver-Privacy-Policy
 
 Privacy Policy for AcneSolver
 Effective Date: October 16, 2024
@@ -71,4 +71,6 @@ If you access our Service from outside the country where our servers are located
 10. Changes to this Privacy Policy
 We may update our Privacy Policy from time to time. Any changes will be reflected in the updated Privacy Policy posted on our app or website, and we will notify you of any significant changes. We encourage you to periodically review this Privacy Policy.
 
-Contact support at ceoofdealsforbuy@gmail.com
+Contact support at ceoofdealsforbuy@gmail.com](https://github.com/peacepulseofficial/AcneSolver-Privacy-Policy/blob/main/README.md
+
+)
